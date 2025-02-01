@@ -1,4 +1,9 @@
 {
+  "//Copyright": [
+    "Copyright © 2025 Violet_Ice紫冰",
+    "Distributed under MIT license.",
+    "See file LICENSE for detail or copy at https://mit-license.org/"
+  ],
   "name": "@violetice/string-to-ascii",
   "version": "1.0.0",
   "description": "本项目的唯一功能是将字符串转换为 ASCII 编码，以此帮助 epub 小说绕过内容检测。",

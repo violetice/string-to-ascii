@@ -19,11 +19,12 @@
     "ascii",
     "epub"
   ],
-  "bugs": {
-    "email": "violetice@aliyun.com"
-  },
+  "bugs": "https://gitee.com/violetice/string-to-ascii/issues",
   "repository": {
     "type": "git",
     "url": "https://github.com/violetice/string-to-ascii.git"
-  }
+  },
+  "contributors": [
+    "Violet_Ice紫冰 <violetice@aliyun.com> (https://www.vlice.cn)"
+  ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "@violetice/string-to-ascii",
+  "version": "1.0.0",
+  "description": "本项目的唯一功能是将字符串转换为 ASCII 编码，以此帮助 epub 小说绕过内容检测。",
+  "main": "main.js",
+  "author": "Violet_Ice紫冰 <violetice@aliyun.com> {https://www.vlice.cn}",
+  "license": "MIT",
+  "type": "module",
+  "keywords": [
+    "violetice",
+    "Violet_Ice紫冰",
+    "string",
+    "char",
+    "ascii",
+    "epub"
+  ],
+  "bugs": {
+    "email": "violetice@aliyun.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
